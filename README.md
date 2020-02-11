@@ -1,4 +1,4 @@
-# reshetCallTest
+# reshetCallTest starting project
 Before started:
   1) Install nodejs 
   2) Install npm
