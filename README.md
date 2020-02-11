@@ -3,6 +3,8 @@ Before started:
   1) Install nodejs 
   2) Install npm
   3) Create mongoDb free account and remember username & password in order to connect to db
+  
+  
 Start
   1) Create local folder for project
   2) Clone from this repository
